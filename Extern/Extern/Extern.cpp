@@ -10,7 +10,7 @@ using namespace std;
 
 
 int _tmain(int argc, _TCHAR* argv[])
-{
+{   // this is just to check check in
 	MainDialog *ptrMainDialog;
 	ptrMainDialog = new MainDialog();
 	Circle *ptrSquare = new Circle();
